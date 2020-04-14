@@ -1,0 +1,51 @@
+.d-flex {
+    display: flex;
+}
+
+.align-items-center {
+    align-items: center;
+}
+
+.justify-items-center {
+    justify-items: center;
+}
+
+.margin-left-auto {
+    margin-left: auto;
+}
+
+.margin-right-auto {
+    margin-right: auto;
+}
+
+.mx-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header .brand-logo {
+    position: static;
+}
+
+.header .brand-logo {
+    font-size: 1.5rem;
+}
+
+.header .select-wrapper input.select-dropdown {
+    color: white;
+    border-bottom: none;
+}
+
+.header .select-wrapper input.select-dropdown:focus {
+    color: white;
+    border-bottom: none;
+}
+
+.header .select-wrapper .caret {
+    fill: white;
+}
+
+.avia-card
+{
+    display: inline;
+}
