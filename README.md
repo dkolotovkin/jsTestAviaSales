@@ -1,1 +1,1 @@
-# jsTestAviaSales
+# Тестовый проект по продаже авиабилетов на JavaScript с использованием Webpack
